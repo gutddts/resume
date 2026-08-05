@@ -5,7 +5,7 @@ var config = {
     age: "中国 · China",
     phone: '<a href="https://github.com/gutddts" target="_blank">github.com/gutddts</a>',
     email: "1159318655@qq.com",
-    address: '<a href="https://gutddts.github.io/resume/" target="_blank">gutddts.github.io/resume</a>',
+    address: '<a href="https://gutddts.github.io/" target="_blank">gutddts.github.io/resume</a>',
     qq: "",
     log: "gutddts",
     excpect_work: "渗透测试 · 红队 · 安全工具开发 / LLM 应用安全",
